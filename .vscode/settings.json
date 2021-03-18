@@ -1,0 +1,8 @@
+{
+  "css.fileExtensions": [
+
+    "css",
+    "scss"
+  ],
+  "workbench.settings.useSplitJSON": true
+}
